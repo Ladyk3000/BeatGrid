@@ -3,6 +3,8 @@ import tkinter as tk
 from tkinter import filedialog, messagebox
 import json
 
+from Cell import Cell
+from SoundManager import SoundManager
 from ui_components import create_sound_button, create_pitch_slider
 
 
